@@ -1,0 +1,37 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="C:/!!!_Geekgrains_university/Advanced_python&#10;C:/!!!_Geekgrains_university/!!!_Parcing_ICO&#10;C:/!!!PYTHON/GeekBrains/Lesson06/hw06_easy.py&#10;C:/!!!PYTHON/GeekBrains/Lesson06/hw06_hard.py" />
+    <property name="file.gist.reindex.count" value="17781" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="lastTip" value="10" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\!!!_Geekgrains_university\!!!_Parcing_ICO\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Ai_data_structure_base\Lesson01\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Ai_data_structure_base\Lesson01\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\!!!_Geekgrains_university\!!!_Parcing_ICO\venv\Scripts\python.exe" value="true" />
+        <entry key="C:\Ai_data_structure_base\Lesson01\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
